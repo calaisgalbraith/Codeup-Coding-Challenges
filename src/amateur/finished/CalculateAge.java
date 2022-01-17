@@ -1,4 +1,4 @@
-package amateur;
+package amateur.finished;
 
 //Write a function to calculate a person’s age based on the date entered in the format MM/DD/YYYY.
 

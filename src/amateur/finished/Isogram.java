@@ -1,4 +1,4 @@
-package amateur;
+package amateur.finished;
 
 //An Isogram is a word that has no repeating letters, consecutive or not.
 // Write a function that takes a string and returns true if it’s an isogram and false if it isn’t.

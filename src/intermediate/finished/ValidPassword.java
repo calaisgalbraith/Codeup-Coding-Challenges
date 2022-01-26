@@ -1,4 +1,4 @@
-package intermediate;
+package intermediate.finished;
 
 //Write a function that determines whether or not a given string is a valid password.
 // A password must follow these rules:

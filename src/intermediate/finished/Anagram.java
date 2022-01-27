@@ -1,4 +1,4 @@
-package intermediate;
+package intermediate.finished;
 
 //Determine whether or not a word is an anagram of another. Return true if it is, and false if it is not.
 

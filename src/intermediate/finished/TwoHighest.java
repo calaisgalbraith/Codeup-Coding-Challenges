@@ -1,4 +1,4 @@
-package intermediate;
+package intermediate.finished;
 
 //Write a function to find the TWO highest values in an array..
 
